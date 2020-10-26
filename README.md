@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👦 I'm Giwantha.
+- 🌱 I’m currently learning javascript related frameworks and new technologies.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
 <!--
 **giwi97/giwi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" alt="giwi97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=giwi97&hide=prs,issues,contribs&show_icons=true&hide_border=true"/>
+<!--<img align="left" alt="giwi97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=giwi97&hide=prs,issues,contribs&show_icons=true&hide_border=true"/>-->
