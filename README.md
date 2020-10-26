@@ -3,7 +3,7 @@
 - 👦 I'm Giwantha.
 - 🌱 I’m currently learning javascript related frameworks and new technologies.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giwantha-sandeepa-wijekoon-3263a7185/)](https://www.linkedin.com/in/giwantha-sandeepa-wijekoon-3263a7185/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GiwanthaS)](https://twitter.com/GiwanthaS)
 <!--
 **giwi97/giwi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
